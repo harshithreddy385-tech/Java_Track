@@ -1,8 +1,0 @@
-# Ignore compiled Java classes
-*.class
-# OS files
-Thumbs.db
-.DS_Store
-# IDE
-.vscode/
-
